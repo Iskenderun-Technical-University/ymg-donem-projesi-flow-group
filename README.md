@@ -8,3 +8,5 @@ ymg-donem-projesi-flow-group created by GitHub Classroom
 ◘Filmlerin izlenebileceği site uzantılarıyla desteklenecek WEB sitesi veya kitapların PDF formatında verileri yüklenecek .
 ◘Görsellerle desteklenecek WEB sitesi ve renklendirme veya biçimlendirme yapılacak .
 ◘SİTE OLUSTURULURKEN  ANLATILANIN DIŞINDA AKIŞ SÜRECİ GEREĞİ , GEREKLİ EKLEMELER VEYA GÜNCELLEMELER YAPILACAKTIR... 
+
+◘UML( Site kullanımı oldukça basittir yukarıda açıklamış olduğum temalar uzerinden oluşturulacaktır site ve site içindeki gerkli yönlendirmelerle kullanım kolaylaştırılacaktır.) 
