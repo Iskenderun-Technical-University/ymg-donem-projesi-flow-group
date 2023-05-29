@@ -30,3 +30,15 @@ P{
     text-shadow: 0 1px aqua;
     outline:aqua;
   }
+  textarea{
+    background-color: aqua;
+    color: black;
+  }
+  .sola-kaydır{
+    float: left;
+    padding:0 10px 10px 0;
+
+  }
+  .ornek{
+     margin: auto;
+  }

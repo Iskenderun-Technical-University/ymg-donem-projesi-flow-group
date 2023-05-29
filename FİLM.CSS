@@ -3,6 +3,16 @@
     margin-left: 100px;
 
     }
+    .buttonsekme {
+
+        background-color:green;
+        color:white;
+        width:25%;
+        height: 50px;
+        float: left;
+        
+        
+      }
     .sola-kaydir{
     float:left;
 
